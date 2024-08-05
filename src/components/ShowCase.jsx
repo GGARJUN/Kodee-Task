@@ -30,14 +30,14 @@ const ShowCase = () => {
   return (
     <>
       <div className="bg-[#2F1893]  h-[1120px]">
-        <div className="relative flex justify-between items-center w-[970px] h-[52.2px] top-[100px] left-[130px]">
+        <div className="relative flex justify-between items-center w-[970px] h-[52.2px] top-[100px] left-[70px]">
           <h1 className="text-white font-bold text-3xl">Last works</h1>
           <div className="w-[170px] h-[50px] border border-white text-white rounded-full flex justify-center items-center ">
             View all Works
           </div>
         </div>
 
-        <div className="relative w-[970px] h-[816px] top-[205px] left-[130px]">
+        <div className="relative w-[970px] h-[816px] top-[205px] left-[70px]">
           <div className="grid grid-cols-2 gap-10">
             {showCase.map((item, index) => (
               <div className="text-gray-300">

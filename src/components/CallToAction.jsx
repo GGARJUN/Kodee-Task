@@ -11,7 +11,7 @@ const CallToAction = () => {
           <img
             src="/Hero/5.jpeg"
             alt=""
-            className="opacity-50 object-cover h-[605px]  w-[1400px]"
+            className="opacity-50 object-cover h-[605px]  w-[1200px]"
           />
         </div>
         <div className="relative flex justify-center items-center flex-col gap-10 top-20">

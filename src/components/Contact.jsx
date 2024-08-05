@@ -11,17 +11,17 @@ const Contact = () => {
           <img
             src="https://s3-alpha-sig.figma.com/img/801b/8400/03ba21507c4e4e0df1ee626da6fc2a65?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ihBi6trOiIAvftN5QakpzTi9uUEu~OL1wS9C5k2aPTwC~4mQfQ6nOOx2Z8SwuFEZ0ZEJ5OHRLaXg~ZdAmCCa0GEpcM1q4WvqCCENSbbGqT4xGJiBzrhYIl0q3vrN0Md~kGRaz7yzVYxfTJQ9ZTGxAk1mGSvzTaADO4EqeTXgN~LbvNHrltV2j3HwWciRrrXxlGCwieMZ3vGwifavvDDzadP-fQdn0OlXRDx-wXXKeLREAK9S6C8HpP8GB110a0KT4os7j8xumgvDOCNZsHNNBB30vZfjeh6wbdhQUqMS8qYvkak9WKY-i3-IKEfHfkLYoqsUlc-c4XI8i0WAf-fVpg__"
             alt=""
-            className="opacity-50 object-cover h-[605px]  w-[1400px]"
+            className="opacity-50 object-cover h-[605px]  w-[1200px]"
           />
         </div>
-        <div className="relative h-[208px] w-[410px] top-[150px] left-[215px] text-white">
+        <div className="relative h-[208px] w-[410px] top-[150px] left-[115px] text-white">
           <h1 className="text-2xl font-bold">Let’s Keep in Touch</h1>
           <p className="mt-2 text-gray-300 ">
             We have created a new product that will help designers, developers
             and companies create websites for their startups quickly and easily.
           </p>
         </div>
-        <div className="relative h-[218px] w-[283.5px] top-[111.2px] left-[215.5px] text-white">
+        <div className="relative h-[218px] w-[283.5px] top-[111.2px] left-[115px] text-white">
           <div className="flex items-center gap-5">
             <img src="/icon/p.png" alt="" />
             <h1 className="text-lg font-medium">+1 555 505 5050</h1>
@@ -38,7 +38,7 @@ const Contact = () => {
             </h1>
           </div>
         </div>
-        <div className="absolute h-[470px] w-[400px] top-[100px] left-[714px] bg-white rounded-xl p-7">
+        <div className="absolute h-[470px] w-[400px] top-[100px] left-[614px] bg-white rounded-xl p-7">
           <div className="grid grid-cols-2 ">
             <div>
               <h1 className="text-gray-500 tracking-[2px] font-semibold">YOUR NAME</h1>

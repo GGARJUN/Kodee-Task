@@ -14,7 +14,7 @@ const LastPage = () => {
             className="opacity-50 object-cover h-[1130px]  w-[1400px]"
           />
         </div>
-        <div className="relative w-[586px] h-[146px] top-[100px] left-[358px] text-center text-white">
+        <div className="relative w-[586px] h-[146px] top-[100px] left-[258px] text-center text-white">
           <h1 className="text-3xl font-semibold">Plans & Pricing</h1>
           <p className="mt-6  text-xl ">
             Startup Framework is free forever — you only pay for custom domain

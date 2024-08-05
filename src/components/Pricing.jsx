@@ -8,7 +8,7 @@ const Pricing = () => {
   };
   return (
     <>
-      <div className="relative mt-64  min-h-screen ">
+      <div className="relative mt-56  min-h-screen ">
         <div
           className="absolute "
           style={{ backgroundColor: "rgba(47, 24, 147, 1)" }}
@@ -19,7 +19,7 @@ const Pricing = () => {
             className="opacity-50 object-cover h-[700px]  "
           />
         </div>
-        <div className="absolute text-white w-[369px] h-[318px] top-[216px] left-[216px]">
+        <div className="absolute text-white w-[369px] h-[318px] top-[216px] left-[116px]">
           <h1 className="text-3xl ">
             We solve digital problems with an outstanding creative flare
           </h1>
@@ -28,7 +28,7 @@ const Pricing = () => {
             and companies create websites for their startups quickly and easily.
           </p>
         </div>
-        <div className="bg-white absolute  top-[100px] left-[715px] rounded-md">
+        <div className="bg-white absolute  top-[100px] left-[615px] rounded-md">
           <div className="flex items-center  justify-center ">
             <div className="w-[400px] h-[450px] p-8    relative overflow-hidden">
               <div className="flex justify-between mb-8">

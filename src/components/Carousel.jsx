@@ -204,9 +204,11 @@ const Carousel = () => {
       <section id="feature" className="-mt-[86px]">
         <Feature />
       </section>
+      <div >
       <Pricing />
+      </div>
       
-      <div className="mt-32">
+      <div className="mt-44">
       <Testimonial/>
       </div>
       <div>
@@ -221,7 +223,7 @@ const Carousel = () => {
       <section id="contact" className="">
         <Contact />
       </section>
-      <section id="pricing" className="">
+      <section id="pricing" className="mt-24">
         <LastPage/>
       </section>
       <div className="mt-[350px]">
